@@ -7,7 +7,7 @@ print("Seu nome possui", quantidade_letras, "letras")
 nome_modificado = nome_completo.replace(nome_completo.split()[-1], "do Inatel")
 print("Seu nome modificado:", nome_modificado)
 print() 
-
+ 
 
 #Resolução exercicio 2
 print("Resolução exercicio 2")
